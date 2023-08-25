@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ayoubod/aspdotnet/FormulaOne/FomulaOne.DataService/FomulaOne.DataService.csproj",
-      "projectName": "FomulaOne.DataService",
-      "projectPath": "/home/ayoubod/aspdotnet/FormulaOne/FomulaOne.DataService/FomulaOne.DataService.csproj",
+      "projectUniqueName": "/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/FormulaOne.DataService.csproj",
+      "projectName": "FormulaOne.DataService",
+      "projectPath": "/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/FormulaOne.DataService.csproj",
       "packagesPath": "/home/ayoubod/.nuget/packages/",
-      "outputPath": "/home/ayoubod/aspdotnet/FormulaOne/FomulaOne.DataService/obj/",
+      "outputPath": "/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ayoubod/.nuget/NuGet/NuGet.Config"
