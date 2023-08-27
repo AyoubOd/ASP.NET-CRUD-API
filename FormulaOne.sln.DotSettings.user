@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4a4ec2c2_002Dc8ac_002D4820_002Da645_002Daff9159b05ee/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Should_ReturnOk_When_AskingForListOfDrivers" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::2249B06A-413E-4CD9-A2A5-F463DAD02342::net7.0::FormulaOne.Tests.Tests.DriverTests.Should_ReturnOk_When_AskingForListOfDrivers&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2249B06A-413E-4CD9-A2A5-F463DAD02342::net7.0::FormulaOne.Tests.Tests.DriverTests.Should_CreateDriver&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2249B06A-413E-4CD9-A2A5-F463DAD02342::net7.0::FormulaOne.Tests.Tests.DriverTests.Should_ReturnDriverDetails&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2249B06A-413E-4CD9-A2A5-F463DAD02342::net7.0::FormulaOne.Tests.Tests.DriverTests.Should_UpdateDriver&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2249B06A-413E-4CD9-A2A5-F463DAD02342::net7.0::FormulaOne.Tests.Tests.DriverTests.Should_DeleteDriver&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

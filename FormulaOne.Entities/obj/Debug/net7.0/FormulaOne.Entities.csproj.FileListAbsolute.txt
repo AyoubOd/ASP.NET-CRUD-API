@@ -1,0 +1,12 @@
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.Entities/bin/Debug/net7.0/FormulaOne.Entities.deps.json
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.Entities/bin/Debug/net7.0/FormulaOne.Entities.dll
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.Entities/bin/Debug/net7.0/FormulaOne.Entities.pdb
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.Entities/obj/Debug/net7.0/FormulaOne.Entities.csproj.AssemblyReference.cache
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.Entities/obj/Debug/net7.0/FormulaOne.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.Entities/obj/Debug/net7.0/FormulaOne.Entities.AssemblyInfoInputs.cache
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.Entities/obj/Debug/net7.0/FormulaOne.Entities.AssemblyInfo.cs
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.Entities/obj/Debug/net7.0/FormulaOne.Entities.csproj.CoreCompileInputs.cache
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.Entities/obj/Debug/net7.0/FormulaOne.Entities.dll
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.Entities/obj/Debug/net7.0/refint/FormulaOne.Entities.dll
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.Entities/obj/Debug/net7.0/FormulaOne.Entities.pdb
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.Entities/obj/Debug/net7.0/ref/FormulaOne.Entities.dll

@@ -18,10 +18,11 @@ public class AppDbContext : DbContext
 
         modelBuilder.Entity<Driver>(entity =>
             {
-                entity.HasMany<Achievement>()
+                entity.HasMany(e => e.Achievements)
                     .WithOne(e => e.Driver)
                     .HasForeignKey(e => e.DriverId)
-                    .OnDelete(DeleteBehavior.SetNull);
+                    .OnDelete(DeleteBehavior.NoAction)
+                    .HasConstraintName("FK_Achievements_Driver");
             }
         );
     }

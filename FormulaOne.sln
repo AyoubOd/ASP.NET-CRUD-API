@@ -5,9 +5,11 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaOne.Api", "FormulaOne.Api\FormulaOne.Api.csproj", "{E60CC4A5-9416-4FAB-8CC0-E8744BE47EDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FomulaOne.DataService", "FomulaOne.DataService\FomulaOne.DataService.csproj", "{B75500BC-74BF-4AA9-9E82-E276DD1D3043}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaOne.DataService", "FormulaOne.DataService\FormulaOne.DataService.csproj", "{B75500BC-74BF-4AA9-9E82-E276DD1D3043}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaOne.Entities", "FormulaOne.Entities\FormulaOne.Entities.csproj", "{FB91B88D-2C78-44D6-95B8-5999AFFD6F69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaOne.Tests", "FormulaOne.Tests\FormulaOne.Tests.csproj", "{2249B06A-413E-4CD9-A2A5-F463DAD02342}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +32,9 @@ Global
 		{FB91B88D-2C78-44D6-95B8-5999AFFD6F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB91B88D-2C78-44D6-95B8-5999AFFD6F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB91B88D-2C78-44D6-95B8-5999AFFD6F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2249B06A-413E-4CD9-A2A5-F463DAD02342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2249B06A-413E-4CD9-A2A5-F463DAD02342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2249B06A-413E-4CD9-A2A5-F463DAD02342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2249B06A-413E-4CD9-A2A5-F463DAD02342}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

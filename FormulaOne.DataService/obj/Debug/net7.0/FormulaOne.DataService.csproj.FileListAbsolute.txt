@@ -1,0 +1,17 @@
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/bin/Debug/net7.0/FormulaOne.DataService.deps.json
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/bin/Debug/net7.0/FormulaOne.DataService.runtimeconfig.json
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/bin/Debug/net7.0/FormulaOne.DataService.dll
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/bin/Debug/net7.0/FormulaOne.DataService.pdb
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/bin/Debug/net7.0/FormulaOne.Entities.dll
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/bin/Debug/net7.0/FormulaOne.Entities.pdb
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/obj/Debug/net7.0/FormulaOne.DataService.csproj.AssemblyReference.cache
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/obj/Debug/net7.0/FormulaOne.DataService.GeneratedMSBuildEditorConfig.editorconfig
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/obj/Debug/net7.0/FormulaOne.DataService.AssemblyInfoInputs.cache
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/obj/Debug/net7.0/FormulaOne.DataService.AssemblyInfo.cs
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/obj/Debug/net7.0/FormulaOne.DataService.csproj.CoreCompileInputs.cache
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/obj/Debug/net7.0/FormulaOne.DataService.csproj.CopyComplete
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/obj/Debug/net7.0/FormulaOne.DataService.dll
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/obj/Debug/net7.0/refint/FormulaOne.DataService.dll
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/obj/Debug/net7.0/FormulaOne.DataService.pdb
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/obj/Debug/net7.0/FormulaOne.DataService.genruntimeconfig.cache
+/home/ayoubod/aspdotnet/FormulaOne/FormulaOne.DataService/obj/Debug/net7.0/ref/FormulaOne.DataService.dll

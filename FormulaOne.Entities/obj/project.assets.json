@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/ayoubod/.dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/bin/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }
